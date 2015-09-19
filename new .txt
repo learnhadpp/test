@@ -1,0 +1,5 @@
+0.
+2.commit
+1.add 
+3.push
+4.pull
